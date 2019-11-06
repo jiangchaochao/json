@@ -1,0 +1,314 @@
+{
+	"name": "ап╠М",
+	"number": 4,
+	"results": [{
+		"name": "NVR1",
+		"number": 3,
+		"rtmpinfo": [{
+			"name": "liveStream1-1",
+			"uri": "rtmp://192.168.13.51/live/liveStream"
+		},
+			{
+				"name": "liveStream1-2",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+			{
+				"name": "liveStream1-3",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			}
+		]
+	},
+		{
+			"name": "NVR2",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream2-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream2-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream2-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		},
+		{
+			"name": "NVR3",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream3-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream3-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream3-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		},
+		{
+			"name": "NVR4",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream4-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream4-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream4-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		}, {
+			"name": "NVR5",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream5-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream5-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream5-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		}, {
+			"name": "NVR6",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream6-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream6-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream6-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		}, {
+			"name": "NVR7",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream7-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream7-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream7-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		}, {
+			"name": "NVR8",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream8-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream8-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream8-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		}, {
+			"name": "NVR9",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream9-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream9-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream9-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		}, {
+			"name": "NVR10",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream10-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream10-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream10-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		}, {
+			"name": "NVR11",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream11-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream11-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream11-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		}, {
+			"name": "NVR12",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream12-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream12-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream12-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		}, {
+			"name": "NVR13",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream13-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream13-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream13-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		}, {
+			"name": "NVR14",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream14-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream14-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream14-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		}, {
+			"name": "NVR15",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream15-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream15-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream15-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		}, {
+			"name": "NVR16",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream16-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream16-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream16-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		}, {
+			"name": "NVR17",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream17-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream17-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream17-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		}, {
+			"name": "NVR18",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream18-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream18-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream18-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		}, {
+			"name": "NVR19",
+			"number": 3,
+			"rtmpinfo": [{
+				"name": "liveStream`9-1",
+				"uri": "rtmp://192.168.13.51/live/liveStream"
+			},
+				{
+					"name": "liveStream`19-2",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				},
+				{
+					"name": "liveStream19-3",
+					"uri": "rtmp://192.168.13.51/live/liveStream"
+				}
+			]
+		}
+	]
+
+}
